@@ -1,2 +1,2 @@
 # cp-kafka-demo
-A simple demo of using Confluent Platform
+A simple demo on using Confluent Platform
